@@ -1,4 +1,5 @@
 # Soft Mode in the Dynamics of Over-realizable On-line Learning for Soft Committee Machines
+## Frederieke Richert, Roman Worschech and Bernd Rosenow
 Over-parametrized deep neural networks trained by stochastic gradient descent are successful in
 performing many tasks of practical relevance. One aspect of over-parametrization is the possibility
 that the student network has a larger expressivity than the data generating process. In the context of
