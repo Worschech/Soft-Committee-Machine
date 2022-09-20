@@ -10,6 +10,6 @@ perfect learning occurs in a power-law fashion rather than exponentially as in t
 All student nodes learn and replicate one of the teacher nodes if teacher and student outputs are
 suitably rescaled and if the numbers of student and teacher hidden units are commensurate.
 
-Frederieke Richert, Roman Worschech, and Bernd Rosenow Phys. Rev. E 105, L052302
 
-The Paper can be find [here](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.L052302).
+
+The Paper published in Phys. Rev. E 105, L052302 can be find [here](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.L052302).
